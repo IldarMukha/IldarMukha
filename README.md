@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IldarMukha
+- 👋 Hi, my name is Ildar Mukhamadeev
 - 👀 I’m interested in diving into "IT world"
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on any new projects as a Junior developer
